@@ -1,6 +1,6 @@
 # Module 11 Challenge - UFOs
 
-The webpage and dynamic table Dana has built are working as intended, but Dana has decided she would like the table to be filtered even further. While it currently filters by the date, she would like to include the ability to filter by more column headers. The ability to pinpoint a search by date and country, for example, would go a long way in providing more in-depth analysis of UFO sightings.
+The purpose of this challenge is to extend the filtering capabilities on the previously built webpage with dynamic tables, ultimately allowing the user to filter the data set utilizing a maximum of five parameters - date, city, state, country, and shape.
 
 ## Challenge Overview
 
@@ -17,6 +17,8 @@ Data Sources: [app](static/js/app.js), [index](index.html), [data](static/js/dat
 Software: JavaScript (w/ D3), HTML (w/ Bootstrap), VSCode
 
 ## Recommendations
+
+Recommend updating the filter selection process to utilize picklists generated from each applicable column as oppose to manual entry in order to minimize human error when filtering data set.
 
 ## Report Completed By:
 ![](static/images/Sal.jpg)
