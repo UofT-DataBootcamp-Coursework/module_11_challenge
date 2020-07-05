@@ -14,7 +14,7 @@ The goals of this challenge are to:
 ## Resources
 Data Sources: [app](static/js/app.js), [index](index.html), [data](static/js/data.js)
 
-Software: JavaScript (w/ D3), HTML (w/ Bootstrap)
+Software: JavaScript (w/ D3), HTML (w/ Bootstrap), VSCode
 
 ## Recommendations
 
