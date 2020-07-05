@@ -42,17 +42,34 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
-                <form class="bg-dark">
+            <form class="bg-dark" onsubmit="{return false;}">
                     <p>Filter Search</p>
                         <ul class="list-group bg-dark">
-                            <li class=" list-group-item bg-dark">
-                            <label for="date">Enter Date</label>
-                                <input type="text" placeholder="1/10/2010" id="datetime" />
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter Date</label>
+                                <input type="text" placeholder="1/11/2010" id="datetime" />
                             </li>
                             <li class="list-group-item bg-dark">
-                                <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>                    
+                                <label for="text">Enter City</label>
+                                <input type="text" placeholder="joplin" id="city" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="text">Enter State</label>
+                                <input type="text" placeholder="mo" id="state" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="text">Enter Country</label>
+                                <input type="text" placeholder="us" id="country" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="text">Enter Shape</label>
+                                <input type="text" placeholder="triangle" id="shape" />
+                            </li>                            
+                            <li class="list-group-item bg-dark">
+                                <button id="filter-btn" type="submit" class="btn btn-dark">Filter Table</button>                    
                             </li>
                         </ul>
+                    <div></div>
                 </form>
             </div>
             <div class="col-md-9">
