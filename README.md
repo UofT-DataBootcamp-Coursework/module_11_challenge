@@ -12,7 +12,7 @@ The goals of this challenge are to:
 - Provide recommendation for further development
 
 ## Resources
-Data Sources: [app](static/js/app.js), [html](index.html), [data](static/js/data.js)
+Data Sources: [app](static/js/app.js), [index](index.html), [data](static/js/data.js)
 
 Software: JavaScript (w/ D3), HTML (w/ Bootstrap)
 
