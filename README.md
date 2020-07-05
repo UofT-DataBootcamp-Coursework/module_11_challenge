@@ -19,4 +19,4 @@ Software: JavaScript (w/ D3), HTML (w/ Bootstrap), VSCode
 ## Recommendations
 
 ## Report Completed By:
-![](static\images/Sal.jpg)
+![](static/images/Sal.jpg)
